@@ -1,2 +1,4 @@
 # Final-Project-Group2
-evaluation on Titanic survival
+theme:evaluation on Titanic survival
+A description of dataset
+machine learning traning algorithms:Decision Tree, Support Vector Machine and Naive Bayes
