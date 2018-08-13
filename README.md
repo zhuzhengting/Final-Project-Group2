@@ -1,5 +1,5 @@
 # Final-Project-Group2
-evaluation on Titanic survival
+prediction on Titanic survival
 
 the description of data
 Variable	Definition	Key
